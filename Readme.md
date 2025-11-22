@@ -1,3 +1,3 @@
 This is the test
 to check conflict
-triple check 2
+triple check 12
